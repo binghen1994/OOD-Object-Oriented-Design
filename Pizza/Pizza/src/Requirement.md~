@@ -1,0 +1,7 @@
+# Pizza Customization System – Decorator Pattern Requirement
+You're building a backend system for a pizza ordering app that supports custom pizza creation. 
+The restaurant offers a base set of pizza types, and customers can customize them with multiple 
+toppings and sauces.
+
+## Requirements
+
